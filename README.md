@@ -23,7 +23,7 @@ Welcome to the General Store Management System! This web-based application is de
 
 1. First of all download whole project in your Computer or Laptop And Unzip it And Name as **gsms**
 
-2. Now move **gsmsr** folder in following location:
+2. Now move **gsms** folder in following location:
    
    ```
    xampp/htdocs/gsms
